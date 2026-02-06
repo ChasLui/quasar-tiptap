@@ -1,3 +1,13 @@
+# Yiitap
+
+This project has been moved to [Yiitap](https://github.com/pileax-ai/yiitap). 🍀
+
+- [Guide to Yiitap](https://yiitap.pileax.ai/guide/getting-started)
+- [Live Demo](https://yiitap.pileax.ai/demo/vue)
+
+
+![Screenshot](https://github.com/pileax-ai/yiitap/raw/main/docs/screenshots/screenshot.gif)
+
 # quasar-tiptap
 
 A modern WYSIWYG rich-text editor built on top of [tiptap](https://github.com/scrumpy/tiptap) and [Quasar Framework](https://github.com/quasarframework) for Vue.js.
